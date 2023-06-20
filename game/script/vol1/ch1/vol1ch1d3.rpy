@@ -48,7 +48,10 @@ label vol1ch1d3_start:
             show hareka smile_mouth
             "We grab the box and get out the Chess set, getting the board set up, and begin playing."
     scene bg bedroom day
-    show hareka hair_band ribbon blinking smile_mouth
+    if vol1ch1d3_activitychoice_v == "reading":
+        show hareka hair_band ribbon blinking smile_mouth at left
+    else:
+        show hareka hair_band ribbon blinking smile_mouth
     "Lunchtime arrives, and Hareka makes me a chicken sandwich."
     mc "Thanks!"
     show hareka talking
