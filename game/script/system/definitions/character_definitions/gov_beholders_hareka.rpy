@@ -103,6 +103,9 @@ layeredimage hareka:
         
         attribute talking:
             "images/characters/gov/beholders/hareka/layeredimage/assets/talking_hareka.png"
+        
+        attribute pouty_mouth:
+            "images/characters/gov/beholders/hareka/layeredimage/assets/pout_mouth.png"
     
     group facial_feature:
         attribute blush:
