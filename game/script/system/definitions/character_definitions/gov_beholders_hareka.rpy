@@ -69,6 +69,8 @@ layeredimage hareka:
     group shirts:
         attribute dress default:
             "images/characters/gov/beholders/hareka/layeredimage/base/shirts/dress_hareka.png"
+        attribute pajamas:
+            "images/characters/gov/beholders/hareka/layeredimage/base/shirts/pajama_hareka.png"
     
     group eyes:
         attribute blinking default:
