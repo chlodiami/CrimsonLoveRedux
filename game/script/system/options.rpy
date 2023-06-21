@@ -23,13 +23,23 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "0.0.1-beta"
+define config.version = "0.0.1-alpha.1"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
-define gui.about = _p("""
+define gui.about = _p("""Waking up, you quickly realise you're in a complete stranger's home. Panicked, you attempt to escape, only to bump into the kidnapper. They claim to work for the government. Do you believe them? It's not like you have much choice but to trust them, since now you're both stuck together. How will things pan out? Will a relationship form? Who knows what the future holds...
+
+This is a Redux, complete rewrite of the original game.
+
+{u}CREDITS{/u}
+
+Credits can be viewed {a=https://github.com/Cinnamon-Blanket/CrimsonLoveRedux#credits}here.{/a}
+
+---
+
+{b}This game is dedicated to Alessa Marie Scottson, who unfortunately passed away mid-development. She was the one who started this project, and we plan to finish it to commemorate her.{/b}
 """)
 
 
