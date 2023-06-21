@@ -52,6 +52,7 @@ label vol1ch1d3_start:
         show hareka hair_band ribbon blinking smile_mouth at left
     else:
         show hareka hair_band ribbon blinking smile_mouth
+    with fade
     "Lunchtime arrives, and Hareka makes me a chicken sandwich."
     mc "Thanks!"
     show hareka talking
