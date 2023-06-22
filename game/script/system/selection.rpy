@@ -21,3 +21,5 @@ menu chapter1select:
         jump vol1ch1d3_start
     "Day 4 (Thursday 4th January)":
         jump vol1ch1d4_start
+    "Day 5 (Friday 5th January)":
+        jump vol1ch1d5_start
